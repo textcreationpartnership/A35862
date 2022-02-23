@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between a new Catholic convert and a Protestant shewing the doctrin of transubstantiation to be as réasonable to be believ'd as the great mystery of the trinity by all good Catholicks.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35862</idno>
+            <idno type="STC">Wing D1297</idno>
+            <idno type="STC">ESTC R29715</idno>
+            <idno type="EEBO-CITATION">11196417</idno>
+            <idno type="OCLC">ocm 11196417</idno>
+            <idno type="VID">46682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between a new Catholic convert and a Protestant shewing the doctrin of transubstantiation to be as réasonable to be believ'd as the great mystery of the trinity by all good Catholicks.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Publish'd with allowance."</note>
+                  <note>Bound and filmed with L3441 following.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trinity --  Early works to 1800.</term>
+               <term>Transubstantiation --  Early works to 1800.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46682:1"/>
+            <pb facs="tcp:46682:1"/>
+            <p>A DIALOGUE Between a New <hi>Catholic Convert</hi> AND A PROTESTANT, Shewing the DOCTRIN of TRANSUBSTANTIATION To be as Reaſonable to be Believ'd as the <hi>GREAT MYSTERY</hi> OF THE TRINITY By all Good Catholicks.</p>
+            <p>Publiſh'd with Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty for His Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:46682:2"/>
+            <pb n="1" facs="tcp:46682:2"/>
+            <head>A DIALOGUE BETWEEN A New Catholic Convert, AND A PROTESTANT, Concerning the Doctrins of the <hi>Trinity</hi> and <hi>Tranſubſtantiation.</hi>
+            </head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>YOU cannot imagin how much I am overjoy'd to ſee you. I have been big with Diſcourſe theſe three days for want of utterance. You may remember, when we talk'd together laſt, we parted in a Diſpute concerning Tranſubſtantiation and the Holy Trinity, of their equal Reaſonableneſs and Authority. I muſt confeſs I was not at that time ſo thorowly arm'd with Reaſons to ſhew you the Parallel: but ſince I have given my ſelf a little leiſure to conſider of it, and I am per<g ref="char:EOLhyphen"/>ſuaded I ſhall be able to give you ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, you know I am always glad of any Opportunity to gain your good Company, but eſpecially upon ſo good an Occaſion. I'le aſſure you, I am not, nor ever was, an Enemy to Catholic Commu<g ref="char:EOLhyphen"/>nion; and if I had not too juſt a Cauſe, I ſhould never ſuffer my ſelf in that which without reaſonable Grounds might be call'd a wil<g ref="char:EOLhyphen"/>ful Schiſm.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have no reaſon to doubt your Integrity, and therefore ſhall not queſtion that: I ſhall only deſire the liberty to preſs my old Argu<g ref="char:EOLhyphen"/>ment,
+<pb n="2" facs="tcp:46682:3"/>That you would relie on the Authority of the Church. I muſt confeſs, you have often queſtion'd the doing of it; but I am ſure, when you ſhall conſider there are Myſteries as well as Doctrins in the Chriſtian Religion, and when you know that Myſteries are not to be fathom'd by Natural Reaſon, you muſt needs conclude, that in ſome Caſes your ſafeſt way is to truſt Tradition. Now cer<g ref="char:EOLhyphen"/>tainly no one can give us ſo good an Account of That, us the Church.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But, Sir, to be ſhort; What relation has this to the preſent Parallel of the Trinity and Tranſubſtantiation? The Authority of the Church is another Point as diſputable as That.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very much: For as theſe two Doctrins have equal ground from Scripture, Reaſon, and Tradition; ſo is there the ſame Obliga<g ref="char:EOLhyphen"/>tion of your receiving one, as well as the other. And indeed I have ſince wonder'd at my own Profeſſion, while a Proteſtant, to think how blind and partial I was: But I muſt confeſs, becauſe we are in a Diſpute, it is better laying by ſuch aggravating Circumſtances; and indeed I cannot but be ſenſible what Prejudices ſuch Diſcourſes always make, and therefore I ſhall ſpeak nothing more of that nature.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But to return to the main Point; I muſt tell you, I do not think them equally grounded on Scripture, Reaſon, or Tradition; and indeed you may remember that was the old Point in diſpute with us.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, Sir, to ſhew you your Error, I ſhall begin with the ſe<g ref="char:EOLhyphen"/>veral Particulars in their Order; and ſo, firſt, as to the Tradition of Tranſubſtantiation. Now 'tis evident That has been deliver'd with leſs interruption than that of the Holy Trinity: That Myſtery was queſtion'd in the very Infancy of the Church; nay, not only ſo, but the <hi>Arians</hi> prevail'd much againſt it about the beginning of the Fourth Age. On the other ſide, Tranſubſtantiation lay unqueſti<g ref="char:EOLhyphen"/>on'd and quiet a long time; and when it came to debate, there was no ſuch oppoſition as that of <hi>Arius,</hi> to call in queſtion the Authority of its Tradition; the Church receiv'd it unanimouſly, and in that ſenſe continu'd, till raſh Reaſon attempted to fathom the unlimited Miracles and Myſteries of God.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But the Fathers are not half ſo expreſs in the Doctrin of Tran<g ref="char:EOLhyphen"/>ſubſtantiation, as they are in the Myſtery of the Holy Trinity.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That's true, and there's very good Reaſon for it: Tranſub<g ref="char:EOLhyphen"/>ſtantiation has not been a Doctrin ſo long in diſpute, and 'tis not cuſtomary for Men to argue unqueſtionable Truths. And whereas you may think that Tranſubſtantiation has of late receiv'd ſuch ſhrewd Repulſes by your Books, I'le aſſure you, you forget how much
+<pb n="3" facs="tcp:46682:3"/>the true Catholic Zeal deſtroys the Seeds of Hereſies. Do you think that ſo many Biſhops, not only of the Eaſtern, but of the Weſtern Church alſo, could be <hi>Arians,</hi> and yet ſuppoſe that that Opinion wanted as plauſible a Pretence of Tradition? Certainly if you con<g ref="char:EOLhyphen"/>ſider that, you cannot think to eſtabliſh the Doctrin of the Trinity by Tradition, more than Tranſubſtantiation; eſpecially conſidering the ſtrong Footſteps of that Sect even in the Fathers now extant. I would cite you ſome of them, but that they are not ſo much to my main Deſign, and indeed my aim is Brevity.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well, Sir, 'tis true, we cannot ſo well plead Tradition to what you have urg'd; and eſpecially when I call to mind, that <hi>Arianiſm</hi> was confirm'd by a General Council: But we alledge an higher ground; we ſtand upon the Authority of the Scriptures, and indeed that is the true Touchſtone of all Doctrins.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>'Tis true, if you will follow the Catholic Church, and take the Scriptures literally, you may diſcover the Myſtery of the Holy Trinity in them; but if you once yield to Figurative Alluſions and Interpretations, the <hi>Arians</hi> will be as much too hard for you, as you imagin your ſelves to be for the Catholic Church. In ſhort, both Doctrins will be at a loſs, and both equally require the Authority of the Church to ſupport them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>O no, ſurely, the Doctrin of the Holy Trinity is more expreſs in Scriptures than ſo.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To ſatisfie you that what I ſay is Truth, becauſe I may repre<g ref="char:EOLhyphen"/>ſent the Parallel the clearer, I will perſonate an <hi>Arian,</hi> that Sect ſo often condemn'd by the Ancient Church, and you ſhall ſee his Plea againſt the Trinity is as fair as yours againſt Tranſubſtantiation. And becauſe this is the main Parallel, I ſhall be ſomewhat the longer, that I may give you the greater ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I ſhall be very glad to hear what you can ſpeak to the matter.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt then, I ſay, 'Tis highly unreaſonable to interpret that Text, 1 <hi>John</hi> 5.7. That <hi>there be Three in Heaven that bear record, and thoſe Three are One;</hi> as likewiſe <hi>John</hi> 10.30. <hi>I and my Father are One,</hi> literally; for if we do, we not only oppoſe Senſe and Rea<g ref="char:EOLhyphen"/>ſon, but we make Conſtruction directly againſt the very Scripture, <hi>John</hi> 10.31, 32, 33, 34, 35, 36, 37, 38. and <hi>John</hi> 17.21, 22, 23. 1 <hi>Cor.</hi> 3.8 And what can be urg'd more againſt us in reſpect of Tranſubſtantiation?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very right, Sir, that Interpretation carries a forcible Reaſon<g ref="char:EOLhyphen"/>ableneſs; but the Doctrin of the Trinity do's not wholly depend upon thoſe two Proofs.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:46682:4"/>
+               <speaker>A.</speaker>
+               <p>Right, it do's not; but I can give you further Demonſtration in this Parallel. A principal Ground of the Trinity is becauſe the Son is ſo often call'd God in Scripture, as <hi>John</hi> 1.1, 2. <hi>Rom.</hi> 9.5. <hi>&amp;c.</hi> Now if we did not comply with the Catholic Church, and make a Literal Conſtruction in this Caſe likewiſe, how ſtrangely ſhould we be confounded by thoſe Texts where this Godhead in Chriſt is de<g ref="char:EOLhyphen"/>clar'd to be no more than Lordſhip, and ſubordinate to the Father? as <hi>Heb.</hi> 1.8, 9. 1 <hi>Cor.</hi> 8.4, 5. 1 <hi>Cor.</hi> 15.27, 28. <hi>Rev.</hi> 3.12. and <hi>John</hi> 10.35, 36.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But, Sir, our Saviour forgave Sins too.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That's true, but only by a deputed Authority. You ſee, when the Sons of <hi>Zebbedee</hi> petition'd him, he could not grant the final Accompliſhment of our Spiritual Warfare, that was the Father's Prerogative, <hi>Matth.</hi> 20.23. And tho' he is to be our Judge, yet he knows not the time, <hi>Mark</hi> 13.31. 1 <hi>Tim.</hi> 6.15.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I muſt confeſs, theſe things a little ſurpriſe me; but however, I cannot think theſe neither the only Grounds that ſupport that Myſte<g ref="char:EOLhyphen"/>ry of the Trinity.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No, you are in the right; there is one ſtrong Proof more: the <hi>making of all things viſible and inviſible</hi> is attributed to the Son, and that expreſly, <hi>John</hi> 1.3. <hi>Heb.</hi> 1.10. and particularly, <hi>Col.</hi> 1.16, 17, 18, 19. But yet for all that, if we do not adhere with the Catholic Church to the Literal Interpretation, we are at a loſs there too: For, firſt, 'tis plain by the reſt of the Scripture, that the Son is not our only Maker, as appears by our Creation attributed to the Father; and then if we compare thoſe Texts to <hi>Heb.</hi> 1.2, 9, 10. 1 <hi>Cor.</hi> 8.6. <hi>Eph.</hi> 3.9. <hi>Eph.</hi> 4.5, 6. 1 <hi>Cor.</hi> 15.27, 28. we cannot reaſonably attribute more to the Son, than his being God's Inſtru<g ref="char:EOLhyphen"/>ment in the Creation.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But are theſe the true and only Grounds of the Doctrin of that Holy Myſtery?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes verily; for, that we are Baptiz'd in the Name of the Father, Son, and Holy Ghoſt, is no Argument. That were as rea<g ref="char:EOLhyphen"/>ſonable, if underſtood of Chriſt and the Holy Ghoſt, as our Spiri<g ref="char:EOLhyphen"/>tual Governors, as under the ſuppoſal of their being Coequal with the Father, 1 <hi>Cor.</hi> 10.2. 1 <hi>Cor.</hi> 12.12, 13.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But ſurely, Sir, the <hi>Arians</hi> ſhould have other Grounds to eſta<g ref="char:EOLhyphen"/>bliſh their Opinions, beſides thoſe; or elſe your Parallel with Tran<g ref="char:EOLhyphen"/>ſubſtantiation will not be ſo demonſtrable as you conceive. Pray in<g ref="char:EOLhyphen"/>form me a little further, I have a mighty deſire to underſtand a lit<g ref="char:EOLhyphen"/>tle better their Fundamental Principles.</p>
+            </sp>
+            <pb n="5" facs="tcp:46682:4"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To ſatisfie you, I ſhall. Firſt, They alledge Chriſt repre<g ref="char:EOLhyphen"/>ſented under the Law altogether as an Angel; for Eminency call'd the Angel of the Preſence, <hi>Iſa.</hi> 63.9. <hi>Eccl.</hi> 5.6. <hi>Gen.</hi> 48.16. <hi>Num.</hi> 20.16. <hi>Exod.</hi> 23.20, 21, 22. referr'd to 1 <hi>Cor.</hi> 10.4, 5, 9. Fur<g ref="char:EOLhyphen"/>ther, they collect him to be a Created Being, from <hi>Col.</hi> 1.15. <hi>Rev.</hi> 3.14. <hi>Pſal.</hi> 118.23. <hi>Iſa.</hi> 45.8. <hi>Ecclus</hi> 1.4, 9. <hi>Ecclus</hi> 24.9. <hi>Sap.</hi> 6.22, 23. And they interpret that Scripture, <hi>Thou art my Son, this day have I begotten thee,</hi> by <hi>Acts</hi> 13.33. and 2 <hi>Pet.</hi> 1.17. As to the Holy Ghoſt, they prove a vaſt diſtance between him and the Son, by <hi>John</hi> 16.12, 13, 14, 15. and <hi>John</hi> 15.26. Beſides, they ſay, he is no where call'd God; and urge for the probability of their Opinion <hi>Rev.</hi> 12.9. <hi>Rev.</hi> 20.8. 2 <hi>Cor.</hi> 4.4. For as there is an uni<g ref="char:EOLhyphen"/>verſal tempting Evil Power, ſo we may reaſonably conclude, there may be a Good Aſſiſting Power, without any neceſſity of his being God. And further, whereever in the Scriptures there is made any mention of the Three Perſons, there is always declar'd an expreſs Gradation; as, 1 <hi>Cor.</hi> 12.3, 4, 5. 2 <hi>Cor.</hi> 13.14. Gift and Com<g ref="char:EOLhyphen"/>munion from the Fellowſhip of the Holy Ghoſt, Grace and Admi<g ref="char:EOLhyphen"/>niſtration from the Lordſhip and Kingſhip of Chriſt, and Love and Operation from the Father, the Supreme God, the Original Foun<g ref="char:EOLhyphen"/>tain, according to <hi>Eph.</hi> 4.4, 5, 6.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I muſt confeſs, Sir, theſe Opinions ſeem to make it neceſſary for us in that Doctrin too, to truſt to the Authority of the Catholic Church, and I ſhall take time to conſider a little upon them: But pray, Sir, what ſay you to the Reaſons of the two Doctrins.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Really, Sir, I muſt tell you, I think that Parallel much the ea<g ref="char:EOLhyphen"/>ſieſt. 'Tis ſtrange new Arithmetic to a Man, to tell him, Three diſtinct Perſons are one and the ſame Individual Nature, and then to call ſuch a one the moſt Pure and Simple Being; and that eſpecially when they are declar'd to have various Intellectual Powers, as appears by <hi>John</hi> 16.12, 13, 14, 15. and <hi>Mark</hi> 13.31. 1 <hi>Tim.</hi> 6.15. <hi>Acts</hi> 1.7. For my part, I cannot tell well how the Prejudice of Education could poſſibly digeſt a thing ſo unreaſonable, were it not a Divine Myſtery. I am ſure, to my Carnal Reaſon, there may be as well Three hundred Perſons in the Godhead, as Three; and I know not what can be ſaid of Tranſubſtantiation that is ſeemingly more abſurd than That.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I muſt confeſs, Sir, I have had ſtrange, conſus'd, and ſurprizing Thoughts of it my ſelf; but I alays apprehended the Chriſtian Church a ſufficient Guide.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If you did, Sir, pray conſider who that Catholic Mother is you
+<pb n="6" facs="tcp:46682:5"/>ſo obey'd; and as you have receiv'd the Trinity, ſo receive a Doctrin equally as Reaſonable, and deliver'd by Her, Tranſubſtantiation. I know the Ingenuouſneſs of your Temper, and you promis'd me at firſt not to be a wilful Schiſmatic; and therefore I have hopes my Reaſons, and your Conſideration, will be ſufficient to reduce you to Catholic Communion.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, I ſhall conſider of it; but as yet you only talk'd to me at large: I ſhall deſire one Favour of you before we part; Pray ſtate the Parallel a little ſhorter, I ſhall the better remember it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, Sir, I ſhall. Firſt, The Tradition of one Doctrin can<g ref="char:EOLhyphen"/>not be ſtronger than another, where both have been at leaſt equally queſtion'd. Secondly, 'Tis as reaſonable to take <hi>This is my Body</hi> literally, as it is to take theſe Texts <hi>I and my Father are one god over all bleſſed for ever,</hi> and <hi>By him all things were made,</hi> without reference to other Scriptures, and a Figurative Interpretation. And, laſtly, I think to Human Reaſon 'tis as equally unreaſonable, and as ſeemingly repugnant, to ſay One is Three, as it is to ſay a Body is not what it appears.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very well; I ſhall deſire no more of you now: I'le only take a little Time to conſider, and then you ſhall know my Mind more freely.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Farewell; and God give you his Holy Spirit to inſtruct you.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46682:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
